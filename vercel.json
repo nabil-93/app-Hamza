@@ -1,11 +1,6 @@
 {
-  "buildCommand": "npx expo export --platform web",
-  "outputDirectory": "dist",
-  "installCommand": "npm install --legacy-peer-deps --ignore-scripts",
-  "framework": null,
-  "env": {
-    "HUSKY": "0",
-    "NODE_ENV": "production",
-    "EXPO_NO_DOTENV": "1"
-  }
+  "buildCommand": null,
+  "outputDirectory": "public",
+  "installCommand": null,
+  "framework": null
 }
